@@ -31,8 +31,7 @@ The second week was dedicated to learning the key object-oriented features of Ja
 -Implementing singly linked lists
 -Basic operations: insertion, deletion, traversal
 
-### EXTRAS
-- Extra practice problems related to object-oriented programming concepts
+
 
 ## Prerequisites
 - Week 1 content familiarity (Java basics)
