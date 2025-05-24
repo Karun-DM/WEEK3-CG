@@ -11,7 +11,7 @@ understanding the principles of Object-Oriented Programming in Java.
  
   - 05 - LinkedList
  
-  - EXTRAS
+
 - Prerequisites
 - How to Use This Repository
 
