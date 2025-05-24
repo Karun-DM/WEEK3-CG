@@ -6,11 +6,11 @@ understanding the principles of Object-Oriented Programming in Java.
 ## Table of Contents
 - Overview
 - Topics Covered
-  - 01 - Java Class & Objects/Level-1
-  - 02 - Java Constructors, Instance vs Class Variables
-  - 03 - this, static, final key words and instance methods
-  - 05 - Inheritance/Level - 1
-  - 06 - Encapsulation, Polymorphism, Interface
+ 
+  - 02 - Encapsulation, Polymorphism, Interface
+ 
+  - 05 - LinkedList
+ 
   - EXTRAS
 - Prerequisites
 - How to Use This Repository
